@@ -5,7 +5,7 @@ It uses the Web Crypto API to generate secure random values, helping users creat
 
 ##Live Demo🚀
 
-**[Try PassGenX] 👉 {https://piyushsingh9663.github.io/PassGenX/}**
+**[Try PassGenX] 👉 { https://piyushsingh9663.github.io/PassGenX/ }
 
 Features
 
