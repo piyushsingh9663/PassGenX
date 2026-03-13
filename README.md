@@ -3,6 +3,9 @@ PassGenX🔒
 PassGenX is a responsive password generator built with HTML, CSS, and JavaScript that creates strong and customizable passwords.
 It uses the Web Crypto API to generate secure random values, helping users create safer passwords instantly.
 
+##Live Demo🚀
+
+**[Try PassGenX] 👉 {https://piyushsingh9663.github.io/PassGenX/}**
 
 Features
 
